@@ -1,10 +1,32 @@
 ## Real Estate Management System (REMS)
-REMS is a simple PHP script based on Laravel that helps you to manage small or medium Real Estate business.
+REMS is a Laravel Project that helps you to manage small or medium Real Estate business.
 
 ### Frameworks
-1. Laravel 5.6
+1. Laravel
 2. Materialize
 3. Admin BSB Material Design
+
+### Modules
+
+Property Listings: Allows users to create and manage property listings with details such as location, features, and images.
+
+Tenant Management: Tracks tenant information, lease agreements, and communication with tenants.
+
+Lease Management: Manages lease agreements, tracks lease terms, and automates rent calculations.
+
+Financial Management: Handles financial transactions, rent collection, expenses, and generates financial reports.
+
+Maintenance Tracking: Monitors property maintenance schedules, requests, and work orders.
+
+Document Management: Stores and organizes important documents related to properties, leases, and transactions.
+
+Reporting and Analytics: Provides insights through reports on property performance, occupancy rates, and financial metrics.
+
+Communication Tools: Facilitates communication between property managers, tenants, and other stakeholders.
+
+Integration: Allows integration with other systems such as accounting software or CRM for seamless workflow.
+
+User Access Control: Manages access levels for different users based on their roles and responsibilities.
 
 ### Admin Features
 1. Tags
